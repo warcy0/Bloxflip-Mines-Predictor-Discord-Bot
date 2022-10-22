@@ -4,6 +4,7 @@
 .mines (round_id)
 
 bar on side of embed changes colors ig
+
 chance displayed on embed completely random though 🤷‍♂️
 # ⚙️Install all the stuff
 put bot token in config.json
